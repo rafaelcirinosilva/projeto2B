@@ -2,10 +2,6 @@
   margin: 0px;
   padding: 0px;
 }
-
-
-
-
 .cabecalho{
     background-color: #000000f1;
     color:white;
@@ -14,7 +10,6 @@
     align-items: center;
     padding: 24px;
 }
- 
   .imagem-cabecalho{
     width: 25%;
   }
